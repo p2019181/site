@@ -23,4 +23,4 @@ tags:
   Button Concept</a> by Mariol Miestri (<a href="https://codepen.io/p2019181">@p2019181</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="<https://static.codepen.io/assets/embed/ei.js"></script>
+<script async src="//static.codepen.io/assets/embed/ei.js"></script>
