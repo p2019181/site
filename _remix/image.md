@@ -17,6 +17,7 @@ tags:
 
 Ασκηση: Κατανοήστε τον τρόπο λειτουργίας των εικόνων τύπου SVG και στη συνέχεια τροποποιείστε το παράδειγμα δημιουργώντας δίπλα στην υπάρχουσα εικόνα, μια ίδια (που να εκτελεί την ίδια λειτουργία) του μισού μεγέθους.
 
+##2η ΑΚΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="p2019181" data-slug-hash="RwRymWw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="SVG Shape Example">
   <span>See the Pen <a href="https://codepen.io/p2019181/pen/RwRymWw">
