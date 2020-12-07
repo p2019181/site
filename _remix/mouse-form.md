@@ -19,3 +19,11 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
+
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p2019181" data-slug-hash="VwKjmVw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="VwKjmVw">
+  <span>See the Pen <a href="https://codepen.io/p2019181/pen/VwKjmVw">
+  VwKjmVw</a> by Mariol Miestri (<a href="https://codepen.io/p2019181">@p2019181</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
